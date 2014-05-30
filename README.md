@@ -3,11 +3,6 @@ ht-python-flask
 
 Sample project that use Python Flask for Heroku training.
 
-ht-java-tomcat
-==============
-
-Sample project that use tomcat(webapp-runner) for Heroku training
-
 How to deploy
 --------------
 
